@@ -1,7 +1,0 @@
-name: aws-admin
-channels:
-  - conda-forge
-dependencies:
-  - boto3
-  - pytest >=4.4
-  - moto >=3.0.5
